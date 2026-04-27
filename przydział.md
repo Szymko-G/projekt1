@@ -1,4 +1,4 @@
-# 4F
+# Przydział
 
 * antos21374206777 - Antoni Drożdżalski
 * Szymko-G - Szymon Grabowski
